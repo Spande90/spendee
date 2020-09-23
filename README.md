@@ -20,7 +20,7 @@ Spendee is a small one time calculator. It is developed to perform balance tally
 The app is totally build in Swift. feel free to use and suggestions are welcome.
 
 
-## 💁🏻 Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+## 💁🏻 Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Spande90/spendee/issues)
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
