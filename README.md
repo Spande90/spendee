@@ -4,8 +4,8 @@
 Spendee is a small one time calculator. It is developed to perform balance tally of money. It is similar to khata-book used to acknowledge inflow and outflow of money.
 
 <p align="center">
-  <img src="https://github.com/Spande90/spendee/blob/master/IMG_5495.jpg" width="350" title="hover text">
-  <img src="https://github.com/Spande90/spendee/blob/master/IMG_5496.jpg" width="350" alt="accessibility text">
+  <img src="https://github.com/Spande90/spendee/blob/master/Images/IMG_5495.jpg" width="350" title="hover text">
+  <img src="https://github.com/Spande90/spendee/blob/master/Images/IMG_5496.jpg" width="350" alt="accessibility text">
 </p>
 
 ## How to Use
