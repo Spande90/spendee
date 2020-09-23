@@ -22,6 +22,8 @@ class SpendeeTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+        let myStack:[Entry] = []
+        XCTAssertTrue(myStack.count == 0, "test failed: count not initialized..")
     }
 
     func testPerformanceExample() {
